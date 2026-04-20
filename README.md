@@ -1,6 +1,6 @@
 # vivadicta cli skills
 
-Agent skills for [VivaDicta for Mac](https://vivadicta.com)'s command-line interface (`vivadicta`). Drop them into any stdio agent - Claude Code, Cursor, Codex, Goose, Warp, and [~40 more](https://github.com/vercel-labs/skills) - so the agent knows when and how to call the CLI for the user's dictation workflows.
+Agent skills for [VivaDicta for Mac](https://vivadicta.com)'s command-line interface (`vivadicta`). Drop them into any stdio agent - Claude Code, Cursor, Codex, Goose, Warp etc - so the agent knows when and how to call the CLI for the user's dictation workflows.
 
 Official pack maintained alongside the `vivadicta` CLI.
 
